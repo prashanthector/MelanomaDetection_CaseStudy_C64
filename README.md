@@ -31,6 +31,7 @@ The data set contains the following diseases:
 - For Model3 we analysed there is lot of class imbalance so we use Augmentor and increase each class with 500 images, So finally Model3 has 3 Convolutional layers, Flatten layer, 2 
   Dense layer and 2 Dropout layers.
 - After Model3 we see training accuracy 90 and validation accuracy as 82, So clearly there is a great improvement in accuracy.
+- Also more number epochs adds more complexity which is further increasing the accuracy.
 
 
 ## Technologies Used
