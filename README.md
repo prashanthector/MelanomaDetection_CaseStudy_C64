@@ -27,7 +27,7 @@ The data set contains the following diseases:
 - Model1 is created with 3 Convolutional layers, Flatten layer and 2 Dense layer without any augmentation and dropout layer Training accuracy is 88 and Validation accuracy is 54
 - After Model1 we clearly see overfitting
 - For Model2 added Augmentation(with RandomFlip and RandomRotation) and dropout layer extra - Training accuracy is 54 and validation accuracy is 53
-- Overfitting reduced but accuracy after Model2
+- Overfitting reduced but accuracy decreased after Model2
 - For Model3 we analysed there is lot of class imbalance so we use Augmentor and increase each class with 500 images, So finally Model3 has 3 Convolutional layers, Flatten layer, 2 
   Dense layer and 2 Dropout layers.
 - After Model3 we see training accuracy 90 and validation accuracy as 82, So clearly there is a great improvement in accuracy.
