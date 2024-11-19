@@ -34,9 +34,11 @@ The data set contains the following diseases:
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Pandas version: 2.1.4
+- NumPy version: 1.26.4
+- TensorFlow version: 2.18.0
+- Matplotlib version: 3.8.0
+- Python version: 3.11.7
 
 ## Acknowledgements
 This assignment was done while doing EPGM in Artificial Intelligence and Machine Learning from IIIT Bangalore and Upgrad.
